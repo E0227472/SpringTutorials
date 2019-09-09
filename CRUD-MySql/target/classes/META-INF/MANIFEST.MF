@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CRUD-MySql
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: skuma573
+Implementation-Vendor-Id: com.capgemini
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CRUD-MySql
+Created-By: Maven Integration for Eclipse
+
